@@ -5,12 +5,13 @@ A modern **User Registration System** built using HTML, CSS, and JavaScript with
 ---
 
 ## 🌐 Live Demo
-👉 https://your-username.github.io/your-repo-name/
+👉 https://vikaspawar-dev.github.io/user-registration-system/
 
 ---
 
 ## 📸 Screenshot
-![App Screenshot](Screenshot%20Registration%20Form.png)
+![App Screenshot](<img width="1827" height="910" alt="Screenshot  Registration Form" src="https://github.com/user-attachments/assets/c79e572d-1a6a-4ebd-8ec3-4ce62b2f9122" />
+)
 
 ---
 
