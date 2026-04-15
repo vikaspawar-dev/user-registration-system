@@ -10,7 +10,7 @@ A modern **User Registration System** built using HTML, CSS, and JavaScript with
 ---
 
 ## 📸 Screenshot
-![App Screenshot](Screenshot  Registration Form.png)
+![App Screenshot](screenshotr.png)
 
 ---
 
